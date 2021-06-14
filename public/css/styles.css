@@ -8,12 +8,19 @@ header {background: #EAC926;
     margin-bottom: 15px;
 
 }
+* {
+    margin: 0 px ;
+    padding: 0 px ;
+    box-sizing: border-box ;
+    }
 
 .contenedor{
     background: #EAC926;
 }
 .caja1{
-    border: 10px solid #ebebeb
+    border: 10px solid #ebebeb;
+    
+
 }
 
 
